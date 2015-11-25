@@ -2,6 +2,8 @@
 
 Build the screenshot using jQuery and what's provided in the app/ folder
 
+###https://github.com/fewd20-sydney/exercise
+
 You can also use font awesome for some of the icons http://fontawesome.io/
 
 For the CDN Link
